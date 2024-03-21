@@ -57,7 +57,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
 </p>
 
-- ## Blockchain Technologies
+
 <p align="left">
 <!--     <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=024" alt="unreal" width="40px" height="40px%"/> </a> -->
 <!--     <img src="https://cryptologos.cc/logos/bnb-bnb-logo.png?v=024" alt="unreal" width="40px" height="40px"/> -->
@@ -65,7 +65,7 @@
 <!--     <img src="https://cryptologos.cc/logos/near-protocol-near-logo.png?v=024" alt="unreal" width="40px" height="40px"/> -->
 <!--     <img src="https://ton.org/download/ton_symbol.png" alt="unreal" width="40px" height="40px"/> -->
 </p>
-<!---
+<!---- ## Blockchain Technologies
 khateeb23/khateeb23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
